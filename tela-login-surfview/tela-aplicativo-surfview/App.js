@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
     marginLeft: 130,
     marginTop: -80,
 
-    width: 50,
+    width: 75,
   
   },
 
